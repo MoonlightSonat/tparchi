@@ -1,6 +1,6 @@
 # tparchi
-Fondant au chocolat
-Ingrédients:
+## **Fondant au chocolat**
+### *Ingrédients*:
 - farine
 - sucre
 - beurre
