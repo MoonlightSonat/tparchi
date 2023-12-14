@@ -38,3 +38,6 @@ Enfourner pendant 20 minutes.
 **ÉTAPE 8**
 Quand le gâteau est cuit, le laisser refroidir avant de le démouler.
 
+### *Dégustation*:
+
+Avec du beurre de cacahuète
